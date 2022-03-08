@@ -34,7 +34,7 @@ public class Main {
         // timSort
         printFirst50(intArray);
 
-        System.out.println("TimSort sorting:");
+        System.out.println("Lists.sort sorting:");
 
         timeStart = System.nanoTime();
         Collections.sort(intArray);
